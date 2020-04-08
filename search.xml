@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>google高级检索</title>
+    <url>/2020/04/08/google%E9%AB%98%E7%BA%A7%E6%A3%80%E7%B4%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://lifehacker.com/the-get-more-out-of-google-infographic-summarizes-onlin-5864111" target="_blank" rel="noopener">指南：get more out of google</a></p>
+<h2 id="另外补充："><a href="#另外补充：" class="headerlink" title="另外补充："></a>另外补充：</h2><p>site:直接加后缀、域名+后缀</p>
+<blockquote>
+<p>eg. site:.org<br>       site:.github.com</p>
+</blockquote>
+<p>确认美音或英音是否有这样的表达<br>site:US ; site:UK </p>
+<p>的; i; www 在搜索时会自动省略，若要整体搜索，全放到“”里。</p>
+<p>“ “中的内容是整体，即作为整体搜索。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>stackedit的基础使用</title>
     <url>/2020/04/06/stackedit%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="https://player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1"
